@@ -5,7 +5,8 @@
   "license": "MIT",
   "author": "Guido",
   "dependencies": {
-    "express": "*"
+    "express": "*",
+    "socket.io": "*"
   },
   "engines": {
     "node": ">=0.6.6",
