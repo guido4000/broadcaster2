@@ -1,0 +1,14 @@
+{
+  "name": "broadcastgo",
+  "version": "0.0.1",
+  "description": "", 
+  "license": "MIT",
+  "author": "Guido",
+  "dependencies": {
+    "express": "*"
+  },
+  "engines": {
+    "node": ">=0.6.6",
+    "npm": ">=1.1.0"
+  }
+}
